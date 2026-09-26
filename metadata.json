@@ -1,0 +1,8 @@
+{
+  "name": "PrepMate AI",
+  "description": "AI-powered placement preparation platform. Know where you stand, know what to learn, and get placement ready with skill assessments, personalized roadmaps, coding and aptitude practice, mock interviews, and resume analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
